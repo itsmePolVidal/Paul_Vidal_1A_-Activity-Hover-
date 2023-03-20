@@ -43,6 +43,7 @@ body{
     text-align: center;
     margin-bottom: 15px;
     font-color:darkslategray;
+    font-weight: 600px;
 }
 
 .bio{
@@ -51,26 +52,29 @@ body{
 }
 
 .social-link{
-
-    padding-top: 20px;
+    
+    
+    padding-top: 15px;
 	font-family: Arial;
 	font-weight: 600;
-	color:/*#686868*/#59b1f1;
-	font-size: 25px;
+	color:#59b1f1;
+	width: 500px;
 	text-decoration: none;
-	border-radius: 20px;
+	border-radius: 10px;
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
 
 }
 
 .social-link:hover{
 
-    width: 100%;
+    
+    width: 500px;
 	background-color: #59b1f1;
 	text-align: center;
 	color: white;
-    font-size: 20px;
+    font-size: 16px;
+    border-radius: 50px;
 	
 	
 
